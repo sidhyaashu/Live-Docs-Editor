@@ -9,15 +9,25 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@clerk/nextjs": "^6.1.0",
+    "@clerk/themes": "^2.1.40",
+    "@codemirror/lang-javascript": "^6.2.2",
+    "@liveblocks/client": "^2.10.2",
+    "@liveblocks/react": "^2.10.2",
+    "@liveblocks/yjs": "^2.10.2",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
+    "codemirror": "^6.0.1",
     "jsm-editor": "^0.0.12",
+    "live-doc-editor": "file:",
     "lucide-react": "^0.454.0",
     "next": "15.0.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "tailwind-merge": "^2.5.4",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "y-codemirror.next": "^0.3.5",
+    "yjs": "^13.6.20"
   },
   "devDependencies": {
     "@types/node": "^20",
