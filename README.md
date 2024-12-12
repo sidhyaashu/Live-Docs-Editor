@@ -1,3 +1,10 @@
+1. liveblocks
+2. shadcn
+3. clerk
+4. lexical
+5. sentry
+
+
 # Dependencies:
 - @clerk/themes
 - @clerk/nextjs
