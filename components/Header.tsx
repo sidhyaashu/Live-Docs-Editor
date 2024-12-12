@@ -2,7 +2,6 @@ import Image from 'next/image'
 import Link from 'next/link'
 
 const Header = ({ children }: HeaderProps) => {
-  console.log(`HII - ${children} v`)
   return (
     <div className='header'>
       <Link href="/" className='md:flex-1'>
