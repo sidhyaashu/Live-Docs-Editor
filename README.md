@@ -1,8 +1,8 @@
-![Alt text](/images/lb_1.png "Optional title")
-![Alt text](/images/lb_2.png "Optional title")
-![Alt text](/images/lb_3.png "Optional title")
-![Alt text](/images/lb_4.png "Optional title")
-![Alt text](/images/lb_6.png "Optional title")
+![Alt text](public/images/lb_1.png "Optional title")
+![Alt text](public/images/lb_2.png "Optional title")
+![Alt text](public/images/lb_3.png "Optional title")
+![Alt text](public/images/lb_4.png "Optional title")
+![Alt text](public/images/lb_6.png "Optional title")
 
 
 
