@@ -17,5 +17,3 @@ npx create-next-app@latest ./ --typescript --tailwind --eslint
 ```bash
 npx shadcn@latest init
 ```
-
-publicApiKey={"pk_dev_XymPe-Hxa1tAmkGN0sr96EE0yCIJs1Fou-p50veWQaKaV8SuQgeaSu14DGZoH59N"}
